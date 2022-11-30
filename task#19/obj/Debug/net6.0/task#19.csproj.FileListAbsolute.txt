@@ -1,0 +1,15 @@
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\bin\Debug\net6.0\task#19.exe
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\bin\Debug\net6.0\task#19.deps.json
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\bin\Debug\net6.0\task#19.runtimeconfig.json
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\bin\Debug\net6.0\task#19.dll
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\bin\Debug\net6.0\task#19.pdb
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.csproj.AssemblyReference.cache
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.AssemblyInfoInputs.cache
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.AssemblyInfo.cs
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.csproj.CoreCompileInputs.cache
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.dll
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\refint\task#19.dll
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.pdb
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\task#19.genruntimeconfig.cache
+C:\Users\DeadKn1ght\Desktop\C#Homework3\task#19\obj\Debug\net6.0\ref\task#19.dll
